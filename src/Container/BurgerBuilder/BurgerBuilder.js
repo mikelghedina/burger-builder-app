@@ -1,13 +1,15 @@
-import React from 'react'
-import {Component} from "react/cjs/react.production.min";
+import React, {Component} from 'react'
+import AuxComponent from '../../hoc/auxComponent'
+import Burger from '../../Components/Burger/Burger'
 
 class BurgerBuilder extends Component{
 
     render() {
         return (
-            <div>
-
-            </div>
+            <AuxComponent>
+                <Burger/>
+                <div>Build Control</div>
+            </AuxComponent>
         );
     }
 }
