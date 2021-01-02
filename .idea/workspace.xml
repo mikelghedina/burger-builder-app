@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7abb358-e313-428a-8022-288d9a3767d7" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/Components/Burger/Burger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Burger/Burger.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BurgerIngredient/BurgerIngredient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BurgerIngredient/BurgerIngredient.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControl/BuildControl.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Burger/Burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Container/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609533097916</updated>
-      <workItem from="1609533099185" duration="7805000" />
+      <workItem from="1609533099185" duration="8437000" />
+      <workItem from="1609610410057" duration="5882000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609535857414</created>
@@ -71,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609535857414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1609543696933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609543696933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
