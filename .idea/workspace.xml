@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7abb358-e313-428a-8022-288d9a3767d7" name="Default Changelist" comment="structure improvements">
-      <change afterPath="$PROJECT_DIR$/src/Components/UI/Spinner/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UI/Spinner/Spinner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/axios-orders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" afterDir="false" />
+    <list default="true" id="f7abb358-e313-428a-8022-288d9a3767d7" name="Default Changelist" comment="adding error handler, spinner and axios http request with firebase backend.">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/UI/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/Modal/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Container/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +77,8 @@
       <workItem from="1609702062274" duration="3010000" />
       <workItem from="1609783284060" duration="6455000" />
       <workItem from="1610101064511" duration="3101000" />
-      <workItem from="1610196824540" duration="4941000" />
+      <workItem from="1610196824540" duration="5171000" />
+      <workItem from="1610230442329" duration="4477000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609535857414</created>
@@ -162,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610197147285</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adding error handler, spinner and axios http request with firebase backend.">
+      <created>1610202130648</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610202130648</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +189,8 @@
     <MESSAGE value="ws" />
     <MESSAGE value="responsive adjustments" />
     <MESSAGE value="structure improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="structure improvements" />
+    <MESSAGE value="adding error handler" />
+    <MESSAGE value="adding error handler, spinner and axios http request with firebase backend." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding error handler, spinner and axios http request with firebase backend." />
   </component>
 </project>
