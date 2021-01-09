@@ -1,8 +1,8 @@
 import React from 'react'
-import AuxComponent from "../../../hoc/auxComponent";
+import AuxComponent from "../../../hoc/AuxComponent/auxComponent";
 import Button from '../../UI/Button/Button'
 
-const orderSummary = (props) =>{
+const orderSummary = (props)=>{
 
     const ingredientSummary = Object.keys(props.ingredients)
         .map(igKey=>{
@@ -24,6 +24,6 @@ const orderSummary = (props) =>{
             <Button btnType="Success" clicked={props.purchaseContinued}>CONTINUE</Button>
         </AuxComponent>
     )
-};
+}
 
 export default orderSummary;

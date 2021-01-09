@@ -1,6 +1,6 @@
 import './App.css';
-import React, {Component} from "react/cjs/react.production.min";
-import Layout from './Components/Layout/Layout'
+import React, {Component} from "react";
+import Layout from './hoc/Layout/Layout'
 import BurgerBuilder from "./Container/BurgerBuilder/BurgerBuilder";
 
 
